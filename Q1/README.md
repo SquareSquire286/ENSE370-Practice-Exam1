@@ -5,7 +5,7 @@
 2. Remove an order (it could be due to the completion or cancellation of the order)
 3. Make payment
 
-There are two users of the system, Customer and Operator. The customer can add or cancel an order, bt the operator can only remove an order after it is completed. Note that a customer cannot add an order unless he has made payment, and he cannot make payment first without trying to place an order.
+There are two users of the system, Customer and Operator. The customer can add or cancel an order, but the operator can only remove an order after it is completed. Note that a customer cannot add an order unless he has made payment, and he cannot make payment first without trying to place an order.
 
 PART A: Draw the Use-Case diagram.
 
