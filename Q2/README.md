@@ -8,3 +8,9 @@
 PART A: Design a system that can easily allow other trim levels of a car to be created and added  to the system. State the design pattern (if any) that you use. Draw the Class diagram.  You are free not to include any methods in your class diagram, but you must include the two characteristics “engine” and “seats”.
 
 PART B: Assume that all the classes in your diagram in Part A above had been implemented. Write the Java code for the main() method to create one instance of the Luxury  trim, and one instance of the Sports trim. You may give your public class any name that you like.
+
+**Instructions for Compilation**
+
+`javac BasicCar.java Car.java CarFactory.java LuxuryCar.java Main.java SportsCar.java`
+
+`java Main`
