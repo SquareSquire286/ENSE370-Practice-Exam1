@@ -36,3 +36,9 @@ public class Burger {
 }
 ~~~~
 Explain what is undesirable about this code and refactor it to make it better.
+
+**Instructions for Compilation**
+
+`javac Burger.java Context.java Decorator.java DrinkDecorator.java FriesDecorator.java Main.java Meal.java MealStateA.java MealStateB.java MealStateC.java State.java`
+
+`java Main`
